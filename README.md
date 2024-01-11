@@ -5,4 +5,4 @@ This is the original zombo.com website running under the [ruffle.rs](https://ruf
 
 Zombo.com was badly converted into a HTML5 website. This gives you the real zombo experience.
 
-**[WELCOME](https://jonty.github.io/zombocom).**
+**[WELCOME](http://welcometozombo.com).**
